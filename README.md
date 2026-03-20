@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26132487/README.md)
+[README (1).md](https://github.com/user-attachments/files/26132552/README.1.md)[Uploading README .md…]()
 # ML_learnning-code
 
 > 机器学习核心专题学习代码库 · 李海文 · 中国传媒大学 · 2024
@@ -95,8 +95,8 @@ jupyter notebook
 
 | 资源 | 链接 |
 |------|------|
-| 八篇文献精读展示页 | [ml_reading_report.html](https://HaiwenPaitience.github.io/ML_learnning-code/ml_reading_report.html) |
-| 图文匹配 Live Demo | [clip_demo_live.html](https://HaiwenPaitience.github.io/ML_learnning-code/clip_demo_live.html) |
+| 八篇文献精读展示页 | [ml_reading_report.html](https://HaiwenPaitience.github.io/ML/ml_reading_report.html) |
+| 图文匹配 Live Demo | [clip_demo_live.html](https://HaiwenPaitience.github.io/ML/clip_demo_live.html) |
 | CLIP 官方仓库 | [openai/CLIP](https://github.com/openai/CLIP) |
 | HuggingFace Transformers | [huggingface/transformers](https://github.com/huggingface/transformers) |
 
@@ -106,7 +106,7 @@ jupyter notebook
 
 **李海文 · Li Haiwen**
 中国传媒大学 · 信息与通信工程学院 · 数字媒体技术
-
+研究兴趣：深度学习 · 模型量化 · 多模态 · 不确定性量化
 
 ---
 

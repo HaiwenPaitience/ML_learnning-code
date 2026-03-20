@@ -96,7 +96,7 @@ jupyter notebook
 | 资源 | 链接 |
 |------|------|
 | 八篇文献精读展示页 | [ml_reading_report.html](https://HaiwenPaitience.github.io/ML/ml_reading_report.html) |
-| 图文匹配 Live Demo | [clip_demo_live.html](https://HaiwenPaitience.github.io/ML/index.html) |
+| 图文匹配 Live Demo | [clip_demo_live.html](https://HaiwenPaitience.github.io/ML/CLIP.html) |
 | CLIP 官方仓库 | [openai/CLIP](https://github.com/openai/CLIP) |
 | HuggingFace Transformers | [huggingface/transformers](https://github.com/huggingface/transformers) |
 
